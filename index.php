@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>Site TDS III</title>
+  <title>Site da Nayara </title>
 </head>
 <body>
     <?php echo "<h1>Olá, mundo!</h1>" ?>
